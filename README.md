@@ -18,7 +18,7 @@ First, you'll need to set up your local development environment.
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/jwt-onepass.git
+    git clone https://github.com/keskinonur/jwt-onepass.git
     cd jwt-onepass
     ```
 
